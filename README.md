@@ -11,7 +11,6 @@ I design and ship apps, client websites and the tools behind my own content. Com
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/command-center.gif" alt="Command Center on a phone: today's three priorities, money, content calendar and pipeline" width="100%"><br>
 <b>Command Center</b><br>
 One private app for my day, money, content and clients. Bank sync, CSV import with auto-categorising, a posting calendar and a weekly review that writes itself.<br>
 <sub>Next.js, Supabase, Vercel</sub>

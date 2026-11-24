@@ -4,7 +4,7 @@ I design and ship apps, client websites and the tools behind my own content. Com
 
 | **300K+** | **8** | **8** |
 |:--|:--|:--|
-| followers grown from zero | client websites built | apps built, solo and in teams |
+| followers grown from zero | websites designed and built | apps built, solo and in teams |
 
 ## Featured work
 
@@ -40,8 +40,8 @@ A seismic safety app for our university, built with Loukas D. Louka.<br>
 <tr>
 <td colspan="2" valign="top">
 <img src="assets/client-sites.gif" alt="Client websites: an engineering consultant and a children's therapy centre" width="100%"><br>
-<b>Client websites</b><br>
-Fast, bilingual sites for professionals and local businesses in Greece and Cyprus, designed and built end to end. <a href="mailto:georgiosmitri999@gmail.com?subject=Website%20project">Want one? Email me.</a>
+<b>Websites</b><br>
+Fast, bilingual sites for professionals and local businesses in Greece and Cyprus: a delivered beauty-studio site with online booking, plus concepts for healthcare, education and advisory brands. <a href="mailto:georgiosmitri999@gmail.com?subject=Website%20project">Want one? Email me.</a>
 </td>
 </tr>
 </table>

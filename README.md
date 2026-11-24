@@ -65,4 +65,4 @@ New Reels and Shorts appear here automatically. Until then, they are on [Instagr
 
 ## Contact
 
-**[Hire me for a website](mailto:georgiosmitri999@gmail.com?subject=Website%20project)** &emsp; [Email](mailto:georgiosmitri999@gmail.com) &emsp; [Instagram](https://instagram.com/george._.mitri)
+**[Hire me for a website](mailto:georgiosmitri999@gmail.com?subject=Website%20project)** &emsp; [Email](mailto:georgiosmitri999@gmail.com) &emsp; [Instagram](https://instagram.com/george._.mitri) &emsp; [LinkedIn](https://www.linkedin.com/in/georgiosmitri/)
